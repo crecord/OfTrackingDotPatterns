@@ -1,7 +1,7 @@
 OfTrackingDotPatterns
 ==========
 
-![Screenshot](https://github.com/crecord/OfTrackingDotPatterns/blob/master/screen.jpg)
+![Screenshot](https://github.com/crecord/OfTrackingDotPatterns/blob/master/screen.png)
 
  
 
