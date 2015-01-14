@@ -1,0 +1,52 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>Blur Level</Name>
+    <Value>10.379310608</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>BW Threshold</Name>
+    <Value>39.901477814</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Define the Gap</Name>
+    <Value>9.975369453</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>Size of Big Blob</Name>
+    <HighValue>1197.044311523</HighValue>
+    <LowValue>0.000000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>Size of Small Blob</Name>
+    <HighValue>85.418716431</HighValue>
+    <LowValue>0.000000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>resolution of Blur Level</Name>
+    <Value>2.921182156</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>brightness</Name>
+    <Value>0.305418730</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>contrast</Name>
+    <Value>0.733990133</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>persistance</Name>
+    <Value>145.566497803</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>maximumDistance</Name>
+    <Value>91.625610352</Value>
+</Widget>
